@@ -14,7 +14,7 @@ My own [i3status](https://i3wm.org/i3status/) config.
 
 ## Usage
 
-```sh
+```bash
 # First, clone this repositories to your computer
 git clone https://github.com/AimerNeige/i3status.git
 
