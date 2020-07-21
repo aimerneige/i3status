@@ -2,7 +2,7 @@
 
 ## About
 
-My own i3status config.
+My own [i3status](https://i3wm.org/i3status/) config.
 
 ## Preview
 
@@ -10,7 +10,7 @@ My own i3status config.
 
 ## Requirement
 
-- you must have i3status installed
+- you must have [i3status](https://i3wm.org/i3status/) installed
 
 ## Usage
 
@@ -23,4 +23,3 @@ mv i3status/ ~/.config/
 
 # Finally, restart the i3 with `Super + Shift + R`
 ```
-
