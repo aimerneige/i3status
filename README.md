@@ -1,8 +1,8 @@
-# i3-status config
+# i3status config
 
 ## About
 
-My own i3-status config.
+My own i3status config.
 
 ## Preview
 
