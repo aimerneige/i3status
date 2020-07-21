@@ -60,7 +60,7 @@ volume master {
     mixer_idx = 0
 }
 
-# This is just for display the String "AimerNeige"
+# This is just for display the String "AimerNeige" you can delete it or change it to your own name
 disk "/" {
     format = " AimerNeige "
 }
