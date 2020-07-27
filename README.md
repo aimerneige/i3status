@@ -11,6 +11,7 @@ My own [i3status](https://i3wm.org/i3status/) config.
 ## Requirement
 
 - you must have [i3status](https://i3wm.org/i3status/) installed
+- you must have [Nerd Font](https://www.nerdfonts.com/#home) installed
 
 ## Usage
 
