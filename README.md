@@ -4,6 +4,8 @@
 
 My own [i3status](https://i3wm.org/i3status/) config.
 
+Use this with my [i3](https://github.com/AimerNeige/i3) config.
+
 ## Preview
 
 ![](preview.png)
