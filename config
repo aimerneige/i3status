@@ -30,6 +30,7 @@ general {
     color_good = "#2AA198"
     color_bad = "#586E75"
     color_degraded = "#DC322F"
+    output_format = i3bar
 }
 
 order += "disk /"
