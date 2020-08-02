@@ -8,7 +8,7 @@ Use this with my [i3](https://github.com/AimerNeige/i3) config.
 
 ## Preview
 
-![](preview.png)
+![](https://raw.githubusercontent.com/aimerneige/PicGoData/master/img/i3-preview.png)
 
 ## Requirement
 
