@@ -19,7 +19,8 @@ Use this with my [i3](https://github.com/AimerNeige/i3) config.
 
 ```bash
 # First, clone this repositories to your computer
-git clone https://github.com/AimerNeige/i3status.git
+# use the depth=1 to clone this without the history
+git clone --depth=1 https://github.com/AimerNeige/i3status.git
 
 # Then, move this folder to the ~/.config/
 mv i3status/ ~/.config/
